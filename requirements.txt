@@ -1,0 +1,13 @@
+# Core Agentic & GenAI Libraries
+google-adk
+google-genai
+
+# Data Processing & ML
+pandas
+numpy
+scikit-learn
+kagglehub
+
+# Frontend & Environment
+gradio
+python-dotenv

@@ -1,0 +1,26 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ruff_cache/
+.ipynb_checkpoints/
+uv.lock
+# Environment Variables & Secrets
+.env
+.env.local
+sa-key.json
+*.json
+
+# Local Data & Models
+data/potability_model.pkl
+data/water_potability.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
