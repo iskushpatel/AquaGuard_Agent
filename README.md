@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-**AquaGuard** is a hybrid artificial intelligence and machine learning solution built for the **Kaggle Vibe Coding Agents Capstone Project**. It is designed to democratize water quality testing, forecast waterborne disease risks, and deliver actionable purification guidelines. 
+**AquaGuard** is a hybrid artificial intelligence and machine learning solution built for the **Kaggle Coding Agents Capstone Project**. It is designed to democratize water quality testing, forecast waterborne disease risks, and deliver actionable purification guidelines. 
 
 The system coordinates a **Google Agent Development Kit (ADK)** multi-agent team with a locally trained **Scikit-learn Random Forest Classifier** to analyze water quality metrics, provide specialized agricultural insights, generate bilingual community posters, and answer questions through a conversational chatbot.
 
